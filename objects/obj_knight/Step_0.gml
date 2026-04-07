@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if (is_dead) return; // stop the code completely
+
 if keyboard_check(vk_left) or keyboard_check(ord("A"))
 {
 	x -= 4;	
