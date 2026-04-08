@@ -9,3 +9,12 @@ spawn_y = y;
 
 // death variable
 is_dead = false;
+
+start_x = x;
+start_y = y; 
+
+with (obj_rat) {
+	start_x = x;
+	start_y = y;
+	speed = 0;
+}
