@@ -18,3 +18,15 @@ with (obj_rat) {
 	start_y = y;
 	speed = 0;
 }
+
+//health bar
+
+hp = 50;
+hp_max = 50;
+
+healthbar_width = 100;
+healthbar_height = 12;
+
+
+
+flash = 0;
