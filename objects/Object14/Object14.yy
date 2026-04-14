@@ -1,16 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_healthbar",
+  "name": "Object14",
   "spriteId": {
-    "name": "spr_healthbar",
-    "path": "sprites/spr_healthbar/spr_healthbar.yy",
+    "name": "Sprite13",
+    "path": "sprites/Sprite13/Sprite13.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
-  "persistent": true,
+  "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -24,9 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

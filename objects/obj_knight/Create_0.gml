@@ -3,6 +3,8 @@
 
 //score
 my_souls = 0;
+hp = 50;
+max_hp = 50;
 
 spawn_x = x;
 spawn_y = y;

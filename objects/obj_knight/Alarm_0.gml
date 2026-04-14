@@ -5,6 +5,7 @@ is_dead = false;
 
 x = spawn_x;
 y = spawn_y;
+hp = max_hp;
 
 image_alpha = 1;
 
