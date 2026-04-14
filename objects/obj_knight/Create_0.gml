@@ -21,12 +21,3 @@ with (obj_rat) {
 
 //health bar
 
-hp = 50;
-hp_max = 50;
-
-healthbar_width = 100;
-healthbar_height = 12;
-
-
-
-flash = 0;
