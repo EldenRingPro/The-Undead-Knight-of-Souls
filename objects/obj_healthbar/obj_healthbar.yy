@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_healthbar",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_healthbar",
+    "path": "sprites/spr_healthbar/spr_healthbar.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
