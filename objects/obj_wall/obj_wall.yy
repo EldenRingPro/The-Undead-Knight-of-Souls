@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object14",
+  "name": "obj_wall",
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "spr_wall",
+    "path": "sprites/spr_wall/spr_wall.yy",
   },
   "solid": false,
   "visible": true,

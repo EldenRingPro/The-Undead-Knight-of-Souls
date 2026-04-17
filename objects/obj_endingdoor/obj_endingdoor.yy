@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_endingdoor",
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "spr_endingdoor",
+    "path": "sprites/spr_endingdoor/spr_endingdoor.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
