@@ -5,6 +5,7 @@ if (is_dead) return; // stop the code completely
 
 if keyboard_check(vk_left) or keyboard_check(ord("A"))
 {
+	
 	x -= 4;	
 }
 
@@ -22,3 +23,6 @@ if keyboard_check(vk_down)    or keyboard_check(ord("S"))
 {
 	y += 4;	
 }
+
+
+
