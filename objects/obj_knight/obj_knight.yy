@@ -41,6 +41,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_dog","path":"objects/obj_dog/obj_dog.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_endingdoor","path":"objects/obj_endingdoor/obj_endingdoor.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_prevdoor","path":"objects/obj_prevdoor/obj_prevdoor.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ending","path":"objects/obj_ending/obj_ending.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],
