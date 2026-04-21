@@ -41,7 +41,6 @@
     {"id":{"name":"Roomending","path":"rooms/Roomending/Roomending.yy",},"order":7,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"obj_endingdoor","path":"objects/obj_endingdoor/obj_endingdoor.yy",},"order":16,},
-    {"id":{"name":"Room7","path":"rooms/Room7/Room7.yy",},"order":6,},
     {"id":{"name":"spr_knight","path":"sprites/spr_knight/spr_knight.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -69,7 +68,6 @@
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Roomhard1","path":"rooms/Roomhard1/Roomhard1.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
-    {"roomId":{"name":"Room7","path":"rooms/Room7/Room7.yy",},},
     {"roomId":{"name":"Roomending","path":"rooms/Roomending/Roomending.yy",},},
   ],
   "Folders": [
