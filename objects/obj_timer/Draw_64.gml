@@ -10,3 +10,5 @@ draw_text(20, 20, "Time: " + string(display_seconds));
 //scoring system
 
 draw_text(32, 64, "Souls: " + string(my_souls));
+
+draw_set_font(fnt_scoresystem);
