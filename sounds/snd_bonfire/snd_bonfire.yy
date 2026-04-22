@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_music",
+  "name": "snd_bonfire",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.15,
+  "volume": 1.0,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_music.mp3",
-  "duration": 204.0947,
+  "soundFile": "snd_bonfire.mp3",
+  "duration": 6.060408,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

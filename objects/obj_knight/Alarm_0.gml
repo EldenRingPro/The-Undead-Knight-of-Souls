@@ -10,3 +10,6 @@ hp = max_hp;
 image_alpha = 1;
 
 show_debug_message("DEATH");
+
+game_end();
+

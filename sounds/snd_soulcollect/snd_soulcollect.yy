@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_music",
+  "name": "snd_soulcollect",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.15,
+  "volume": 0.64,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -14,8 +14,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_music.mp3",
-  "duration": 204.0947,
+  "soundFile": "snd_soulcollect.mp3",
+  "duration": 3.134694,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
