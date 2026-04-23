@@ -4,7 +4,7 @@
   "name": "snd_music",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.18,
+  "volume": 0.36,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
