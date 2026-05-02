@@ -1,10 +1,10 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "ts_floor",
+  "name": "ts_floor2",
   "spriteId": {
-    "name": "spr_floor",
-    "path": "sprites/spr_floor/spr_floor.yy",
+    "name": "spr_floor2",
+    "path": "sprites/spr_floor2/spr_floor2.yy",
   },
   "tileWidth": 16,
   "tileHeight": 16,
