@@ -22,4 +22,4 @@ with (obj_rat) {
 }
 
 //health bar
-
+image_speed = 0
