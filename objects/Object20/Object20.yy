@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "Object20",
   "spriteId": {
-    "name": "spr_normalsoul",
-    "path": "sprites/spr_normalsoul/spr_normalsoul.yy",
+    "name": "spr_start",
+    "path": "sprites/spr_start/spr_start.yy",
   },
   "solid": false,
   "visible": true,
