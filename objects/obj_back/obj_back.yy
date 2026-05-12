@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object20",
+  "name": "obj_back",
   "spriteId": {
-    "name": "spr_start",
-    "path": "sprites/spr_start/spr_start.yy",
+    "name": "spr_back",
+    "path": "sprites/spr_back/spr_back.yy",
   },
   "solid": false,
   "visible": true,

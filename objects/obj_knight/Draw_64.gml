@@ -4,4 +4,8 @@
 draw_set_color(c_red);
 
 var percent = clamp(hp / max_hp, 0, 1);
-draw_rectangle(10, 10, 30, 200 * percent, false);
+
+if (percent > 0.05)
+{
+	draw_rectangle(10, 10, 30, 200 * percent, false);
+}
