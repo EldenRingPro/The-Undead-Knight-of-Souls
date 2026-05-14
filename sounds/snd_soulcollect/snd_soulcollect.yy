@@ -4,7 +4,7 @@
   "name": "snd_soulcollect",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.94,
+  "volume": 0.64,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
