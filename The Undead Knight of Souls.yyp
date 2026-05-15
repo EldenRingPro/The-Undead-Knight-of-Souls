@@ -17,6 +17,7 @@
     {"id":{"name":"spr_smallsoul","path":"sprites/spr_smallsoul/spr_smallsoul.yy",},"order":2,},
     {"id":{"name":"obj_heavydoor","path":"objects/obj_heavydoor/obj_heavydoor.yy",},"order":12,},
     {"id":{"name":"spr_ending","path":"sprites/spr_ending/spr_ending.yy",},"order":13,},
+    {"id":{"name":"spr_hydra","path":"sprites/spr_hydra/spr_hydra.yy",},"order":31,},
     {"id":{"name":"obj_secrettext","path":"objects/obj_secrettext/obj_secrettext.yy",},"order":27,},
     {"id":{"name":"obj_lava","path":"objects/obj_lava/obj_lava.yy",},"order":7,},
     {"id":{"name":"obj_prevdoor","path":"objects/obj_prevdoor/obj_prevdoor.yy",},"order":17,},
