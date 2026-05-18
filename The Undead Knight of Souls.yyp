@@ -80,6 +80,7 @@
     {"id":{"name":"spr_soldier","path":"sprites/spr_soldier/spr_soldier.yy",},"order":3,},
     {"id":{"name":"spr_floor2","path":"sprites/spr_floor2/spr_floor2.yy",},"order":17,},
     {"id":{"name":"ts_torch","path":"tilesets/ts_torch/ts_torch.yy",},"order":3,},
+    {"id":{"name":"spr_aboutgame","path":"sprites/spr_aboutgame/spr_aboutgame.yy",},"order":32,},
     {"id":{"name":"spr_back","path":"sprites/spr_back/spr_back.yy",},"order":27,},
     {"id":{"name":"obj_door2","path":"objects/obj_door2/obj_door2.yy",},"order":13,},
     {"id":{"name":"spr_healthbar","path":"sprites/spr_healthbar/spr_healthbar.yy",},"order":9,},
