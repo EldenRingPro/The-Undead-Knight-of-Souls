@@ -2,6 +2,17 @@
 // You can write your code in this editor
 
 
+
+
+
+draw_set_color(c_black);
+draw_set_alpha(1.0);
+
+
+draw_rectangle(10, 10, 250, 80, false);
+
+draw_set_alpha(1.0);
+
 var display_seconds = ceil(timer_variable / game_get_speed(gamespeed_fps));
 
 draw_set_color(c_white);
@@ -12,3 +23,9 @@ draw_text(20, 20, "Time: " + string(display_seconds));
 draw_text(32, 64, "Souls: " + string(my_souls));
 
 draw_set_font(fnt_scoresystem);
+
+draw_set_color(c_orange);
+draw_rectangle(10, 10, 250, 80, true);
+
+
+
