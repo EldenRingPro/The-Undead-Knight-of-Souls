@@ -12,4 +12,5 @@ audio_play_sound(snd_startmusic, 10, false);
 }
 
 audio_stop_sound(snd_startmusic2);
+audio_stop_sound(snd_dialouge);
 
