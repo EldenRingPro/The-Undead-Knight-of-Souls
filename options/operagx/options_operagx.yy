@@ -2,8 +2,8 @@
   "resourceType": "GMOperaGXOptions",
   "resourceVersion": "1.0",
   "name": "operagx",
-  "option_operagx_version": "1.0.0.3",
-  "option_operagx_next_version": "1.0.0.4",
+  "option_operagx_version": "1.0.0.4",
+  "option_operagx_next_version": "1.0.0.5",
   "option_operagx_game_name": "The Undead Knight of Souls",
   "option_operagx_interpolate_pixels": true,
   "option_operagx_scale": 0,
@@ -14,5 +14,5 @@
   "option_operagx_team_id": "a0efcb8d-8d10-40cd-9803-1dc80d886435",
   "option_operagx_editUrl": "https://dev.gx.games/games/35891370-3c72-4dd7-b2ed-216baeca5928/details",
   "option_operagx_internalShareUrl": "https://gx.games/games/i65d72/the-undead-knight-of-souls/tracks/4fb73876-beef-45cb-9818-f897bd7f85ff/",
-  "option_operagx_publicShareUrl": "",
+  "option_operagx_publicShareUrl": "https://gx.games/games/i65d72/the-undead-knight-of-souls/",
 }
